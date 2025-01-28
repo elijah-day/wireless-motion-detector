@@ -1,6 +1,6 @@
 # Wireless Motion Detector
 
-###### Copyright © 2024 Elijah Day
+###### Copyright © 2025 Elijah Day
 
 ### About
 
@@ -16,12 +16,11 @@ has a somewhat short range.)
 Development on this project was started without a clear application in mind.  It
 was moreso done as an exercise in PCB and firmware design rather than a way to
 solve any particular problem.  Though, you may be able to find some utility in
-this project if you look hard enough.
+it.
 
-One example might be security (monitoring opening of entry points, like doors or
-windows).  The device could be configured to send a message to a server upon
-sensing motion at an entry point.  After reception of a message from the device,
-a server could be set to send a message to a user alerting them of the entry.
+One potential application might be something like home security, but note that
+there are not any measures in place (yet) to deal with issues like power
+failures or device tampering.
 
 ### Credits
 

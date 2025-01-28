@@ -1,6 +1,6 @@
 # Wireless Motion Detector (Main Board)
 
-###### Copyright © 2024 Elijah Day
+###### Copyright © 2025 Elijah Day
 
 ### About
 
